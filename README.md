@@ -1,0 +1,2 @@
+# -Data-Structure-meging-two-linked-list
+Suppose two linked lists ܽ = {ܽa1,a2,a3...an} and ܾ = {ܾb1,b2,b3..bn} are sorted in an ascending order. Implement a merge function using a linked list that generates a new linked list ܿ by merging ܽ and ܾ. Here, elements should be sorted in an ascending order. Show the result using the following example. Also, analyze the time complexity (upper bound ܱ or tight bound ߠ (of this function
